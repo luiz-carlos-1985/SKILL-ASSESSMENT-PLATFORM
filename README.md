@@ -227,5 +227,13 @@ For support and questions:
 - Check the documentation
 
 ---
+Screenshoots:
+<img width="1066" height="977" alt="image" src="https://github.com/user-attachments/assets/3d864199-ab86-4572-b417-e590fd27a263" />
+
+<img width="1091" height="873" alt="image" src="https://github.com/user-attachments/assets/4e78471d-1b26-44af-8a5f-18eb864a0b8b" />
+
+<img width="891" height="923" alt="image" src="https://github.com/user-attachments/assets/df5889bb-e0c4-4e7b-b2f7-f311906de738" />
+
+<img width="1232" height="824" alt="image" src="https://github.com/user-attachments/assets/39a21bdb-5f28-4b26-a236-a6f536d0c9ef" />
 
 **Skill Assessment Platform** - Assess and improve your professional skills! 🚀
